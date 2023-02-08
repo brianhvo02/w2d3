@@ -1,0 +1,3 @@
+[submodule "mastermind_project"]
+	path = mastermind_project
+	url = https://github.com/brianhvo02/mastermind_project.git
